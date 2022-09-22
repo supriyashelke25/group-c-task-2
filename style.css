@@ -1,0 +1,275 @@
+.container{
+    background-color: whitesmoke;
+    padding-top: 20px;
+}
+.navbar{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-content: center;
+height: 80px;
+font-size: 20px;
+font-weight: bold;
+background-color: white;
+}
+.nav-list{
+list-style-type: none;
+}
+.li-item{
+display: inline-block;
+padding: 20px 10px;
+}
+.li-item:hover{
+background-color: #e6f7ff;
+color: black;
+height: 10px;
+border-radius: 15px;
+cursor: pointer;
+}
+.btn{  
+background-color:  #00B9F1;
+float: right;
+margin-left: 50px;
+padding: 10px 20px;
+margin-right: 80px;
+margin-top: 2.5px;
+margin-bottom: 20px;
+color: white;
+font-size: 20px;
+border-radius: 20px;
+border: none;
+}
+.btn:hover{
+cursor: pointer;
+background-color:#002E6E;
+}
+.one{
+display: flex;
+flex-direction: row;
+justify-content: center;
+background-color: #d9d9d9;
+padding-top: 10px;
+height: 40px;
+font-size: 20px;
+}
+.learn:hover{
+color:#e8f8fd;
+cursor: pointer;
+}
+.btn1{
+background-color: black;
+color: white;
+margin-left: 80px;
+padding-top:10px;
+padding-bottom: 10px;
+font-size: 20px;
+width: 300px;
+border-radius:30px;
+}
+.btn1:hover{
+background-color: white;
+color: black;
+cursor: pointer;
+}
+.img{
+ height:100px; 
+ width:100px; 
+ margin-left: 80px;
+ margin-top:80px; 
+}
+.info{
+margin-left: 80px;
+font-size: 45px;
+}
+.para{
+margin-left: 80px;
+font-size: 18px;
+}
+.main{
+display: flex;
+}
+.img-1{
+margin-left: 550px;
+margin-top: 70px;
+}
+.two{
+background-color: #00B9F1;
+padding: 20px;
+height: 280px;
+}
+.two-1{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding-top: 30px;
+}
+.text{
+color: white;
+}
+.recharge1{
+font-size: 20px;
+margin-left: 10px;
+} 
+.recharge1:hover{
+height: 180px;
+width: 100px;
+border-radius: 20px;
+padding: 10px;
+cursor: pointer;
+background-color: #d9d9d9;
+}
+.three{
+background-color: #002E6E;
+padding: 20px;
+height: 280px;
+}
+.three-1{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.recharge2{
+font-size: 20px;
+margin-left: 10px;
+}
+.recharge2:hover{
+background-color:#330066;
+height: 180px;
+width: 100px;
+border-radius: 20px;
+padding: 10px;
+cursor: pointer;
+}
+.row{
+font-size: 45px;
+padding-left: 40px;
+margin-left: 40px;
+}
+.division{
+padding:10PX;
+}
+.img{
+display: flex;
+padding-left: 100px;
+padding-top: 100px;
+}
+.fast-way{
+padding-left: 100PX;
+padding-top: 30PX;
+}
+.four{
+display: flex;
+justify-content: space-between;
+background-color:  #f2f2f2;
+margin-left:40px ;
+margin-right: 15px;
+}
+.five{
+display: flex;
+justify-content: space-between;
+background-color:  #f2f2f2;
+margin-left: 40px;
+margin-right: 15px;
+}
+.btn2{
+background-color: #330066;
+border-radius: 40px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+border: none;
+}
+.btn2:hover{
+background-color: #00B9F1;
+}
+.six{
+display: flex;
+justify-content: space-between;
+background-color:  #f2f2f2;
+margin-left: 40px;
+margin-right: 15px;
+border: none;
+}
+.hdfc-bank{
+display: flex;
+justify-content: space-around;
+}
+.bank{
+background-color: #f2f2f2;
+padding: 40px;
+width: 450px;
+border-radius: 20px;
+}
+.sbi-bank{
+background-color: #f2f2f2;
+padding-left:40px;
+padding-top: 80px;
+width: 500px;
+border-radius: 20px;
+}
+.seven{
+display: flex;
+padding: 40px;
+background-color: #f2f2f2;
+justify-content: space-between;
+margin-left: 40px;
+margin-right: 15px;
+border-radius: 20px;
+}
+.eight{
+display: flex;
+padding: 40px;
+background-color: #f2f2f2;
+justify-content: space-between;
+margin-left: 40px;
+margin-right: 15px;
+border-radius: 20px;
+padding-top: 50px;
+}
+.nine{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+padding-top: 40px;
+}
+.btn-learn:hover{
+cursor: pointer;
+transition: 0.5s;
+color: blue;
+}
+.btn-learn1:hover{
+color: #330066;
+cursor: pointer;
+transition: 0.5s;
+}
+.ten{
+display: flex;
+padding-left: 50px;
+justify-content: space-between;
+padding-top: 40px;
+}
+.rupee:hover{
+background-color: #80bfff;
+cursor: pointer;
+transition: 0.5s;
+}
+.rupee{
+background-color: #00B9F1;
+}
+.invest{
+display: flex;
+justify-content: center;
+color: white;
+font-size: 20px;
+padding-bottom: 15px;
+}
+.rupee1{
+background-color: #00B9F1;
+padding: 20px;
+}
+.rupee1:hover{
+background-color:#99bbff;
+cursor: pointer;
+transition: 0.5s;
+}
